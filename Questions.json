@@ -1,0 +1,168 @@
+[
+   {
+      "question": "1. Vilken tid på året är det vanligast att brunbjörnar tar älgar?",
+      "a": "På sensommaren, när älgarna fällt sina horn",
+      "b": "Under vår och tidig sommar, när de vaknar ur sitt ide",
+      "c": "På vintern, när det är djup snö",
+      "d": "På hösten, veckorna innan de går i ide",
+      "correctAnswer": "b",
+      "playerawnser": ""
+   },
+   {
+      "question": "2. Vilken av följande arter får du bedriva vaktjakt på två timmar efter solens nedgång?",
+      "a": "Järv",
+      "b": "Rådjur",
+      "c": "Dovhjort",
+      "d": "Vildsvin",
+      "correctAnswer": "d",
+      "playerawnser": ""
+   },
+   {
+      "question": "3. Är det tillåtet att genskjuta viltet under drevjack med hjälp av en hundpejl?",
+      "a": "Nej, der är endast tillåtet vid eftersök",
+      "b": "Nej, det är aldrig tillåtet",
+      "c": "Ja",
+      "d": "Ja, men endast om viltet genskjuts med motorfordon",
+      "correctAnswer": "c",
+      "playerawnser": ""
+   },
+   {
+      "question": "4. Får man jaga lodjur med hagelgevär?",
+      "a": "Nej",
+      "b": "Ja",
+      "correctAnswer": "b",
+      "playerawnser": ""
+   },
+   {
+      "question": "5. Får man jaga kronhjort med hagelgevär?",
+      "a": "Nej",
+      "b": "Ja",
+      "correctAnswer": "a",
+      "playerawnser": ""
+   },
+   {
+      "question": "6. Om du skjuter med hagelgevär mot en fågelflock bör du alltid skjuta i mitten av flocken för att fälla så många fåglar som möjligt?",
+      "a": "Falskt",
+      "b": "Sant",
+      "correctAnswer": "a",
+      "playerawnser": ""
+   },
+   {
+      "question": "7. Hur ofta diar en harhona sina ungar?",
+      "a": "Tre gånger per dygn",
+      "b": "Fyra eller fler gånger per dygn",
+      "c": "En gång per dygn",
+      "d": "Två gånger per dygn",
+      "correctAnswer": "c",
+      "playerawnser": ""
+   },
+   {
+      "question": "8. Vad är troligen felet om du märker att ditt hagelgevär skuter lågt?",
+      "a": "Du använder fel ammunition",
+      "b": "Du skjuter på för långt avstånd",
+      "c": "Gevärets trångborrning behöver justeras",
+      "d": "Kolven behöver justeras",
+      "correctAnswer": "d",
+      "playerawnser": ""
+   },
+   {
+      "question": "9. Får du låta din okopplade terrier träna på att spåra rådjur 10 september?",
+      "a": "Nej, du måste vänta till 31 januari",
+      "b": "Ja",
+      "c": "Nej, annat än vid jakt får hundar aldrig springa lösa i marker där det finns vilt",
+      "d": "Nej, du måste vänta till 1 oktober",
+      "correctAnswer": "d",
+      "playerawnser": ""
+   },
+   {
+      "question": "10. Får man jaga rådjur med hagelgevär?",
+      "a": "Nej",
+      "b": "Ja",
+      "correctAnswer": "b",
+      "playerawnser": ""
+   },
+   {
+      "question": "11. Får du avliva ett skadat rådjur du hittar vid vägkanten?",
+      "a": "Nej, du måste ringa en eftersöksjägare",
+      "b": "Ja, om du inte tillför mer lidande",
+      "c": "Nej, du måste ringa markägare",
+      "d": "Nej, du måste ringa polisen",
+      "correctAnswer": "b",
+      "playerawnser": ""
+   },
+   {
+      "question": "12. Vad innebär det att hunden ska 'söka under bössan' vid jakt med stötande hund?",
+      "a": "Hunden får aldrig röra sig på högre mark (kullar och backar än jägaren)",
+      "b": "Närviltet är skjutet ska hunden alltid stanna vid jägarens sida",
+      "c": "Hunden ska vara så pass nära jägaren att denne kan skjuta ett uppstött vilt med hagelbössa",
+      "d": "Hunden ska följa gevärspipans riktning och söka av ett område på 200-300 meter framför jägaren",
+      "correctAnswer": "c",
+      "playerawnser": ""
+   },
+   {
+      "question": "13. Hur ska ett jaktvapen som du inte har under omedelbar uppsikt förvaras i din bostad?",
+      "a": "Du får själv avgöra hur ett vapen förvaras på lämpligast sätt i din bostad",
+      "b": "Det ska vara oladdat och låst med ett godkänt vapenlås",
+      "c": "Det ska förvaras i ett godkänt säkerhetsskåp",
+      "d": "Vapnets huvuddel ska förvaras väl gömt",
+      "correctAnswer": "c",
+      "playerawnser": ""
+   },
+   {
+      "question": "14. Vad innebär det när man säger att en stövare är rådjursren?",
+      "a": "Att hunden är tränad på att bara driva rådjur",
+      "b": "Att hunden inte bryr sig om rådjur eller dess spår",
+      "c": "Att hunden inte jagar rådjur men är specialiserad på eftersök av dem",
+      "d": "Att hunden är specialtränad för att bara driva gamla sjuka rådjur",
+      "correctAnswer": "b",
+      "playerawnser": ""
+   },
+   {
+      "question": "15. Vad kallas en råbock som har två spetsar på hornet?",
+      "a": "Krondjur",
+      "b": "Spetsbock",
+      "c": "Sextaggare",
+      "d": "Gaffelbock",
+      "correctAnswer": "d",
+      "playerawnser": ""
+   },
+   {
+      "question": "16. Vildsvin är snabba och kan vara mycket aggressiva mot närgångna hundar?",
+      "a": "Sant",
+      "b": "Falskt",
+      "correctAnswer": "a",
+      "playerawnser": ""
+   },
+   {
+      "question": "17. Du har precis kört hem från din jaktmark där du utan framgång smygjagat rådjur. Plötsligt får du en bild på ett rådjur skickat till dig från en viltkamera på din jaktmark. Får du köra tillbaka och jaga rådjuret?",
+      "a": "Ja, förutsatt att du parkerar bilen på samma plats som tidigare",
+      "b": "Nej, du skulle då begå ett jaktbrott",
+      "c": "Ja, förutsatt att du parkerar bilen minst 100 meter från rådjurets position",
+      "d": "Nej, du skulle då begå ett brott mot GDPR",
+      "correctAnswer": "b",
+      "playerawnser": ""
+   },
+   {
+      "question": "18. Skott mot vilt i rörelse bör undvikas vid jakt med kulvapen?",
+      "a": "Falskt",
+      "b": "Sant",
+      "correctAnswer": "b",
+      "playerawnser": ""
+   },
+   {
+      "question": "19. Vilket påstående om tryckjakt stämmer?",
+      "a": "Tryckjakt är en jaktform som liknar vaktjakt",
+      "b": "Viltet kommer oftast lugnt och försiktigt och erbjuder därför säkra skott",
+      "c": "Det kräver många deltagare för att bedriva tryckjakt",
+      "d": "Tryckjakt lämpar sig bäst för jakt på fasan och hare",
+      "correctAnswer": "b",
+      "playerawnser": ""
+   },
+   {
+      "question": "20. På skjutbanor är det rekommenderat att ha rem på hagelgevär?",
+      "a": "Sant",
+      "b": "Falskt",
+      "correctAnswer": "b",
+      "playerawnser": ""
+   }
+]
